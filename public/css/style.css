@@ -1,0 +1,12 @@
+body{
+  background-image:url(../img/bg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#login{
+  width: 100%;
+  height: 350px;
+  margin-top: 2%;
+}
