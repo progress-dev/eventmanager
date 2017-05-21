@@ -109,7 +109,7 @@
 							Event </a>
 						</li>
 						<li>
-							<a href="#" target="_blank">
+							<a href="peserta" target="_blank">
 							<i class="glyphicon glyphicon-user"></i>
 							Participants </a>
 						</li>
